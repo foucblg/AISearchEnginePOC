@@ -30,7 +30,7 @@ python build_vector_db.py
 ```
 This script parses and embeds documents (PDFs, Word files, etc.) and saves them to a FAISS index for later querying.
 
-The current dataset is based on the document reclaiming-climate-justice.pdf (https://www.amnesty.org/en/documents/ior40/9530/2025/en/). The two others documents have been generated with MistralAI.
+The current dataset is based on the document reclaiming-climate-justice.pdf by Amnesty International (https://www.amnesty.org/en/documents/ior40/9530/2025/en/). The two others documents have been generated with MistralAI.
 
 ## 🏃 Run the API Server
 

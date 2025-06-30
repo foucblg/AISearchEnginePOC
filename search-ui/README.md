@@ -9,7 +9,7 @@ It is built with **React.js** and provides a clean and interactive user interfac
 - Simple and intuitive search interface  
 - Real-time search results display  
 - Enable access to original documents by pressing "View source"
-- Display the score of each search result (the less, the better)
+- Display the score of each search result (the fewer, the better)
 
 
 ## 📦 Installation

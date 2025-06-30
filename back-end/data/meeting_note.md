@@ -7,6 +7,7 @@
 - Global Campaign to Demand Climate Justice (DCJ)
 - Women and Gender Constituency (WGC)
 - Various NGOs and civil society organizations
+- Indigenous Peoples representatives
 
 ## Agenda
 1. Introduction and Welcome

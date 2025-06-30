@@ -8,4 +8,5 @@ This repository contains a proof of concept for a document search engine, compos
 ## Repository Structure
 
 ─ back-end/       # Backend API and vector database builder
+
 ─ search-ui/      # Frontend React application

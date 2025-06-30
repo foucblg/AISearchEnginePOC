@@ -1,0 +1,7 @@
+/back-end/__pycache__/
+/back-end/venv/
+/back-end/db_faiss/
+
+/search-ui/node_modules/
+/search-ui/package-lock.json
+/search-ui/.DS_Store

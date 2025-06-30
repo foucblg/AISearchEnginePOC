@@ -31,4 +31,4 @@ This will start the development server on `http://localhost:3000`.
 
 ## 🧪 Example
 
-You can test the search engine with the following example query: "Role of Indigenous Peoples in climate negotiations"
+You can test the search engine with the following example query: "Indigenous Peoples representatives"

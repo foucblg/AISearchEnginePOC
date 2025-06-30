@@ -10,6 +10,7 @@ It is built with **Python** and **FastAPI**, and exposes a **RESTful API** to pe
 - ⚡ Fast and lightweight API with FastAPI
 - 🗂️ Vector store powered by FAISS
 - 🧪 Ready for local development and prototyping
+- 📄 Host original documents to provide additional context for search results
 
 
 ## 📦 Installation
@@ -29,6 +30,8 @@ To prepare your search engine, you first need to build the FAISS vector index fr
 python build_vector_db.py
 ```
 This script parses and embeds documents (PDFs, Word files, etc.) and saves them to a FAISS index for later querying.
+
+The current dataset is based on the document reclaiming-climate-justice.pdf (https://www.amnesty.org/en/documents/ior40/9530/2025/en/). The two others documents have been generated with MistralAI.
 
 ## 🏃 Run the API Server
 

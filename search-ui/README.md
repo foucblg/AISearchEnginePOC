@@ -8,7 +8,7 @@ It is built with **React.js** and provides a clean and interactive user interfac
 
 - Simple and intuitive search interface  
 - Real-time search results display  
-- Integration-ready to connect with the back-end API  
+- Enable access to original documents by pressing "View source"
 
 
 ## 📦 Installation

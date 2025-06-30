@@ -9,6 +9,7 @@ It is built with **React.js** and provides a clean and interactive user interfac
 - Simple and intuitive search interface  
 - Real-time search results display  
 - Enable access to original documents by pressing "View source"
+- Display the score of each search result (the less, the better)
 
 
 ## 📦 Installation
@@ -27,3 +28,7 @@ To start the React application, run:
 npm start
 ```
 This will start the development server on `http://localhost:3000`.
+
+## 🧪 Example
+
+You can test the search engine with the following example query: "Role of Indigenous Peoples in climate negotiations"

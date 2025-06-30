@@ -12,7 +12,6 @@ It is built with **Python** and **FastAPI**, and exposes a **RESTful API** to pe
 - 🧪 Ready for local development and prototyping
 - 📄 Host original documents to provide additional context for search results
 
-
 ## 📦 Installation
 
 Clone the repository and install the required dependencies:

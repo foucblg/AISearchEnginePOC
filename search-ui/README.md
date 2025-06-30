@@ -3,7 +3,6 @@
 This is the very basic front-end part of the **Proof of Concept (PoC)** for an internal document search engine.  
 It is built with **React.js** and provides a clean and interactive user interface to perform and display search queries.
 
----
 
 ## 🚀 Features
 
@@ -11,7 +10,6 @@ It is built with **React.js** and provides a clean and interactive user interfac
 - Real-time search results display  
 - Integration-ready to connect with the back-end API  
 
----
 
 ## 📦 Installation
 

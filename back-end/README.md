@@ -3,7 +3,6 @@
 This is the back-end of a **Proof of Concept (PoC)** for an internal document search engine.  
 It is built with **Python** and **FastAPI**, and exposes a **RESTful API** to perform semantic search on embedded documents using **FAISS**.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,6 @@ It is built with **Python** and **FastAPI**, and exposes a **RESTful API** to pe
 - 🗂️ Vector store powered by FAISS
 - 🧪 Ready for local development and prototyping
 
----
 
 ## 📦 Installation
 
